@@ -1,0 +1,22 @@
+[
+  {
+    "id": "INC-501",
+    "text": "Prior weather disruption on Mumbai to Rotterdam lane caused 22 hour delay. Best mitigation was early customer notification and berth rebooking at Jebel Ali."
+  },
+  {
+    "id": "INC-612",
+    "text": "Chicago to Toronto shipments with elevated border queues recovered when customs documents were sent six hours before arrival at Windsor."
+  },
+  {
+    "id": "INC-733",
+    "text": "Yantian terminal congestion produced rolled sailings for high-volume export lanes. Alternate feeder through Nansha reduced dwell time."
+  },
+  {
+    "id": "INC-844",
+    "text": "Air cargo documentation exceptions at GRU often require broker escalation and corrected commercial invoice within two hours to protect connection windows."
+  },
+  {
+    "id": "OPS-212",
+    "text": "Missed cold chain checkpoints are high-priority anomalies. Operations should verify sensor telemetry, product temperature range, and next scan location."
+  }
+]

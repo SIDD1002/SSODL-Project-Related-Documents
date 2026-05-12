@@ -1,0 +1,5 @@
+[
+  { "region": "Arabian Sea", "severity": 78, "event": "Monsoon cell", "window": "2026-05-10 to 2026-05-12" },
+  { "region": "US Southeast", "severity": 56, "event": "Thunderstorm watch", "window": "2026-05-11 to 2026-05-12" },
+  { "region": "North Sea", "severity": 18, "event": "Normal operations", "window": "2026-05-11" }
+]

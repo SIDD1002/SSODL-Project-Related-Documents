@@ -1,0 +1,6 @@
+[
+  { "route_id": "R-SEA-11", "stops": ["Mumbai", "Jebel Ali", "Suez", "Rotterdam"], "efficiency": 58 },
+  { "route_id": "R-ROAD-04", "stops": ["Chicago", "Detroit", "Windsor", "Toronto"], "efficiency": 76 },
+  { "route_id": "R-OCEAN-21", "stops": ["Shenzhen", "Yantian", "Pacific Crossing", "Los Angeles"], "efficiency": 61 },
+  { "route_id": "R-RAIL-08", "stops": ["Hamburg", "Berlin", "Poznan", "Warsaw"], "efficiency": 88 }
+]

@@ -1,0 +1,5 @@
+[
+  { "lane": "Chicago -> Toronto", "risk": 52, "reason": "Border queue elevated at Windsor" },
+  { "lane": "Sao Paulo -> Mexico City", "risk": 79, "reason": "Commercial invoice mismatch" },
+  { "lane": "Mumbai -> Rotterdam", "risk": 35, "reason": "Standard maritime documentation" }
+]
